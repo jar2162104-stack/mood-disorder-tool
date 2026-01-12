@@ -273,3 +273,5 @@ Built with:
 **Last Updated:** January 2026  
 **Created By:** Jared McDonald, Chandler-Gilbert Community College  
 **Course:** PSY 266 - Abnormal Psychology
+
+ 
