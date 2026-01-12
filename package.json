@@ -1,6 +1,7 @@
 {
   "name": "mood-disorder-diagnostic-tool",
   "version": "1.0.0",
+  "type": "module",
   "description": "Interactive diagnostic training tool for abnormal psychology",
   "scripts": {
     "dev": "vite",
